@@ -1,4 +1,4 @@
-## *summraized about the mindset*
+## **summraized about the mindset**
 
 
 ## A person's belief in personal qualities such as intelligence and talent, is it stable or growing?
