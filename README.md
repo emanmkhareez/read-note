@@ -17,7 +17,7 @@
 2.Don't get tired of trying until you achieve the goal.
 3. Face the problem do not avoid it.
 
-
-[my profile](https://github.com/emanmkhareez/mindset/edit/gh-pages/index.md) 
+@eman Almkhareez
+[my profile](https://github.com/emanmkhareez) 
 
 
