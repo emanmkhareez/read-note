@@ -1,4 +1,3 @@
-
 ## **summraized about the mindset**
 
 ## A person's belief in personal qualities such as intelligence and talent, is it stable or growing?
@@ -20,4 +19,3 @@
 @eman Almkhareez
 [my profile](https://github.com/emanmkhareez) 
  
-
