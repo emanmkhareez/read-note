@@ -18,6 +18,10 @@
 
 
 [my profile](https://github.com/emanmkhareez) 
+<<<<<<< HEAD:mindset.md
 @eman Almkhareez
  
 
+=======
+ 
+>>>>>>> 2320fab0eff23eea0d61deb411c580293828c3e3:read1.md
