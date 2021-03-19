@@ -4,7 +4,7 @@
 
 | assignment      | link                      |
 |-----------------|---------------------------|
-|read             | [mindset](read.md )       |
+|read             | [mindset](read.md)       |
 | read2           | [Git-Intro](read2.md)     |
 | read3           |  [markdown](read3.md)     |
 | read4           |[ch18+ch17](readch18&ch17) |
