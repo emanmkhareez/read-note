@@ -7,7 +7,7 @@
 |read             | [mindset](read.md)       |
 | read2           | [Git-Intro](read2.md)     |
 | read3           |  [markdown](read3.md)     |
-| read4           |[ch18+ch17](readch18&ch17.md) |
+| read4           |[ch18+ch17](read4ch18&ch17.md) |
 |read5a           |[javascript1](read5a.md)   |
 |read5b           |[javascript2](read5b.md)   | 
 
