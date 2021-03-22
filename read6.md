@@ -18,7 +18,7 @@ this use to compare any two or more varible with other
      y=10
 x==y this operator compare the value without datatype result to this = true
 x===y this  operator compare the value with datatype result to this= false
-# if statment
+# if statment & switch
 tow check anything using javascript use the if statement for example two check if the student pass in the exam or fail write this statement
 var stuGrade =59
 if (stu>50 ){
