@@ -12,5 +12,6 @@
 |read5b           |[javascript2](read5b.md)                     |
 |read5c           |[javascript3](read5c.md)                     |
 |read6            |[ Comparison and logical operators](read6.md)|
+|read7            |[css & color](cssFile.md)                    |
 
 
