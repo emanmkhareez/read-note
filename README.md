@@ -4,12 +4,12 @@
 
 | assignment      | link                      |
 |-----------------|---------------------------|
-| mindset         | [mindset](mindset.md )    |
-| read2           | [Git-Intro](read2.md)     |
-| read3           |  [markdown](read3.md)     |
-| read4           |[ch18+ch17](readch18&ch17) |
-|read5a           |[javascript1](read5a.md)   |
-|read5b           |[javascript2](read5b.md)   | 
+| mindset         | [mindset](102/mindset.md )    |
+| read2           | [Git-Intro](102/read2.md)     |
+| read3           |  [markdown](102/read3.md)     |
+| read4           |[ch18+ch17](102/readch18&ch17) |
+|read5a           |[javascript1](102/read5a.md)   |
+|read5b           |[javascript2](102/read5b.md)   | 
 
 
 #### eman-Almkhareez  
