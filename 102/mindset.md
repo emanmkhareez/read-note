@@ -1,4 +1,5 @@
-## **summraized about the mindset**
+## summraized about the mindset
+
 
 ## A person's belief in personal qualities such as intelligence and talent, is it stable or growing?
 ### The growth mindset believes that a person's abilities grow through practice and work, and that intelligence and talent are the starting point, no more.
@@ -16,6 +17,6 @@
 2.Don't get tired of trying until you achieve the goal.
 3. Face the problem do not avoid it.
 
-@eman Almkhareez
-[my profile](https://github.com/emanmkhareez) 
- 
+
+[my profile](https://github.com/emanmkhareez/mindset/edit/gh-pages/index.md) 
+
