@@ -29,4 +29,4 @@
 |    class-02 | [ Basics of HTML, CSS & JS](201/read-2.md)                         |
 |    class-03 | [ HTML Lists, CSS Boxes, JS](201/read-3.md)                        |
 |    class-04 | [ HTML Links, JS Functions,CSS Layout](201/read-4.md)              |
-|
+|class-05     |[ img & color & text & Compression](201/read-5.md)                  |
