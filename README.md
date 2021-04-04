@@ -30,3 +30,4 @@
 |    class-03 | [ HTML Lists, CSS Boxes, JS](201/read-3.md)                        |
 |    class-04 | [ HTML Links, JS Functions,CSS Layout](201/read-4.md)              |
 |class-05     |[ img & color & text & Compression](201/read-5.md)                  |
+|class-06     |[object & DOM](201/read-6.md)                                       |
