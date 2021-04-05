@@ -31,3 +31,4 @@
 |    class-04 | [ HTML Links, JS Functions,CSS Layout](201/read-4.md)              |
 |class-05     |[ img & color & text & Compression](201/read-5.md)                  |
 |class-06     |[object & DOM](201/read-6.md)                                       |
+|class-07     |[table  &object](201/read-7.md)                                       |
