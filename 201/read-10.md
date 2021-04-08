@@ -55,4 +55,14 @@ This technique is particularly helpful to show the nature of the information tha
 
 2. consol e.warn() can be used for warnings
 
-3. console .er ror() can be used to hold errors
+3. console .er ror() can be used to hold errors.
+
+
+
+The **try** statement lets you test a block of code for errors.
+
+The **catch** statement lets you handle the error.
+
+The **throw** statement lets you create custom errors.
+
+The **finally** statement lets you execute code, after try and catch, regardless of the result.
