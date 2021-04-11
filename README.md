@@ -34,4 +34,5 @@
 |class-07     |[table  &object](201/read-7.md)                                     |
 |class-08     |[Layout](201/read-8.md)                                             | 
 |class-09    |[form  & event ](201/read-9.md)                                     | 
-|class-10    |[Error Handling & Debugging” ](201/read-10.md)                                     | 
+|class-10    |[Error Handling & Debugging” ](201/read-10.md)                                     |
+|class-10    |[image & Practical Information ](201/read-11.md)                                     |  
