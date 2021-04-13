@@ -36,3 +36,4 @@
 |class-09    |[form  & event ](201/read-9.md)                                     | 
 |class-10    |[Error Handling & Debugging” ](201/read-10.md)                                     |
 |class-10    |[image & Practical Information ](201/read-11.md)                                    |  
+|class-11    |[canvas ](201/read-12.md)                                    | 
