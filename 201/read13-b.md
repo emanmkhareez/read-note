@@ -88,3 +88,17 @@ The distance calculation of the skew value is measured in units of degrees. Leng
 .box-3 {
   transform: skew(5deg, -20deg);
 }
+
+
+# Transitions & Animations
+
+Animations:allow the appearance and behavior of an element to be altered in multiple keyframes.
+
+
+Transitions:provide a change from one state to another.
+
+he easiest way for determining styles for different states is by using the :hover, :focus, :active, and :target pseudo-classes.
+
+
+
+There are four transition related properties in total, including transition-property, transition-duration, transition-timing-function, and transition-delay. 

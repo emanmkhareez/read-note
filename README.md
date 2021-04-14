@@ -35,6 +35,7 @@
 |class-08     |[Layout](201/read-8.md)                                             | 
 |class-09    |[form  & event ](201/read-9.md)                                     | 
 |class-10    |[Error Handling & Debugging” ](201/read-10.md)                                     |
-|class-10    |[image & Practical Information ](201/read-11.md)                                    |  
-|class-11    |[canvas ](201/read-12.md)                                                          | 
-|class-11    |[web app ](201/read-13.md)                                                          | 
+|class-11   |[image & Practical Information ](201/read-11.md)                                    |  
+|class-12    |[canvas ](201/read-12.md)                                                          | 
+|class-13    |[web app ](201/read-13.md)                                                          | 
+|class-13    |[articals ](201/read13-b.md)                                                          |
