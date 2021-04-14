@@ -31,3 +31,10 @@ in early invent the cookies to web app
   ## So what is HTML5 Storage? 
 
    way for web pages to store named key/value pairs locally, within the client web browser. Like cookies, this data persists even after you navigate away from the web site,
+
+   1-his data persists even after you navigate away from the web site, 
+
+   2- close your browser tab.
+
+   3- this data is never transmitted to the remote web server .
+   
