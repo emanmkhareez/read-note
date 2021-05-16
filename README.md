@@ -1,5 +1,11 @@
-# read-note
-# **Code 102 Reading Notes**
+# Reading Notes
+
+## a description :
+
+This site is for storing what you have summarized from reading in all the stages that I have reached in this course
+
+
+# **Code 102 - Intro to Software Development**
 
 | Assignment    |                   link                                    | 
 | :---          |                  :----:                                   |
@@ -19,7 +25,7 @@
 
 
 
-#  **Code 201 Reading Notes**
+#  **Code 201 - Foundations of Software Development**
 
  
 
@@ -40,3 +46,7 @@
 |class-13    |[web app ](201/read-13.md)                                                          | 
 |class-13    |[articals ](201/read13-b.md)                                                          |
 |class-14    |[team  ](201/read-14.md)                                                          |
+
+
+
+#  **Code 301 - Intermediate Software Development**
