@@ -23,10 +23,9 @@ componentDidMount
 What is the big difference between props and state?
 
   "props" (short for "properties") is an object of arbitrary inputs a React function component accepts as the first argument. "state" is data that changes over the lifetime of a specific instance of a React component.
+When do we re-render our application? when data change
 
 What are some examples of things that we could store in state?
 
 
-  he State of a component is an object that holds some information that may change over the lifetime of the component. For example, let us think of the clock that we created in this article, we were calling the render() method every second explicitly, but React provides a better way to achieve the same result and that is by using State, storing the value of time as a member of the component’s state. We will look into this more elaborately later in the article.
-
-
+ Counter and Forms
