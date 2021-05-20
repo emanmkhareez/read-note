@@ -27,12 +27,17 @@ Creating a new site on Netlify is simple. Once you’ve logged in, you’ll be t
 Once you have a static application, what do you need to add?
 
 
+I need to add to state to make app more interactive
 
 What are the three questions you can ask to determine if something is state?
 
-1. Factual 2. Interpretive 3. Evaluative Page 5 FACTUAL
+it passed in from a parent via props? 
+Does it remain unchanged over time? 
+Can you compute it based on any other state or props in your component
+ 
 
 
 
-How can you identify where state needs to live?]
 
+How can you identify where state needs to live?
+ you must Identify the component that renders something based on that state.
