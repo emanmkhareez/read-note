@@ -39,7 +39,13 @@ This site is for storing what you have summarized from reading in all the stages
 |class-06     |[object & DOM](201/read-6.md)                                       |
 |class-07     |[table  &object](201/read-7.md)                                     |
 |class-08     |[Layout](201/read-8.md)                                             | 
-|class-09    |[form  & event ](201/read-9.md)                                      | 
+|class-09     |[form  & event ](201/read-9.md)                                     |
+|class-10     |[ Syntax Error](201/read-10.md)                                     | 
+|class-11     |[ imges](201/read-10.md)                                            |  
+|class-12     |[chart ](201/read-12.md)                                            | 
+|class-13     |[ web app ](201/read-13.md)                                         |  
+|class-14     |[What Google ](201/read-14.md)                                      | 
+|class-15     |[Transforms ](201/read-15.md)                                       | 
 
 
 
