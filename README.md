@@ -7,8 +7,8 @@ This site is for storing what you have summarized from reading in all the stages
 
 # **Code 102 - Intro to Software Development**
 
-| Assignment    |                   link                                    | 
-| :---          |                  :----:                                   |
+| Assignment  |                      link                                    |
+| ----------- | ------------------------------------------------------------|  
 | Read1       |[maindset](102/mindset.md)                                   | 
 | Read2       |[Git intro](102/read2.md)                                    | 
 | Read3        |[markdown ](102/read3.md)                                   | 
@@ -39,13 +39,8 @@ This site is for storing what you have summarized from reading in all the stages
 |class-06     |[object & DOM](201/read-6.md)                                       |
 |class-07     |[table  &object](201/read-7.md)                                     |
 |class-08     |[Layout](201/read-8.md)                                             | 
-|class-09    |[form  & event ](201/read-9.md)                                     | 
-|class-10    |[Error Handling & Debugging” ](201/read-10.md)                                     |
-|class-11   |[image & Practical Information ](201/read-11.md)                                    |  
-|class-12    |[canvas ](201/read-12.md)                                                          | 
-|class-13    |[web app ](201/read-13.md)                                                          | 
-|class-13    |[articals ](201/read13-b.md)                                                          |
-|class-14    |[team  ](201/read-14.md)                                                          |
+|class-09    |[form  & event ](201/read-9.md)                                      | 
+
 
 
 
