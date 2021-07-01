@@ -40,4 +40,7 @@ Can you compute it based on any other state or props in your component
 
 
 How can you identify where state needs to live?
+
  you must Identify the component that renders something based on that state.
+
+## Things I want to know more about
