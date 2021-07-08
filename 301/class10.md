@@ -9,6 +9,8 @@ At the most basic level, a call stack is a data structure that uses the Last In,
 
 ### How many ‘calls’ can happen at once?
 
+It is done one at a time from top to bottom. It means the call stack is synchronous.
+
 ### What does LIFO mean?
 
  Last In, First Out, it means that the last function that gets pushed into the stack is the first to be pop out, when the function returns. 
