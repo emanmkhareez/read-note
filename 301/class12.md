@@ -3,26 +3,43 @@
 
  ## five differences between SQL and NoSQL databases:
 
-# SQL                                   NOSQL
+# SQL                                  
 
- Relational Databases RDBMS            non-relational or distributed database 
+ Relational Databases RDBMS             
 
- databases are table based databases   databases are document based, key-value pairs,
-                                        graph databases or wide-column stores
+ databases are table based databases   
 
-have standard schema                    not have standard schema
+have standard schema                    
 
-predefined schema for structured data   dynamic schema for unstructured data.
+predefined schema for structured data   
 
-vertically scalable                      horizontally scalable
+vertically scalable                   
 
-structured query language                Unstructured Query Language
 
-examples: MySql, Oracle, Sqlite,          examples: MongoDB, BigTable    
+structured query language                
+
+examples: MySql, Oracle, Sqlite,             
 Postgres and MS-SQL
 
- good fit for the complex query         not good fit for complex queries.
+ good fit for the complex query       
 
+ # NOSQL
+
+ non-relational or distributed database 
+
+ databases are document based, key-value pairs, graph databases or wide-column stores
+
+ not have standard schema
+
+ dynamic schema for unstructured data.
+
+ horizontally scalable
+
+ Unstructured Query Language
+
+ examples: MongoDB, BigTable 
+
+  not good fit for complex queries
 
 
                          
