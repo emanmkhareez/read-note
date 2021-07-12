@@ -65,6 +65,7 @@ This site is for storing what you have summarized from reading in all the stages
 |    class-09 | [ class9 ](301/class9.md)                                      |
 |    class-10 | [ In memory storage ](301/class10.md)                          |
 |    class-11 | [ Authentication ](301/class11.md)                             |
+|    class-12 | [ Mongo and Mongoose ](301/class12.md)                         |
 
 
  # **Code 401 - Advanced Software Development**
