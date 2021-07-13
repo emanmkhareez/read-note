@@ -2,6 +2,7 @@
 
 
  ## five differences between SQL and NoSQL databases:
+ 
 
 # SQL                                  
 
