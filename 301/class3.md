@@ -51,3 +51,20 @@ const objectTwo = {world: "🐻"}
 const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
 console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
 
+
+
+
+
+In the video, what is the first step that the developer does to pass functions between components?
+
+Create the function where he want to change the state inside.
+In your own words, what does the increment function do?
+
+It increment the count inside the state by one.
+How can you pass a method from a parent component into a child component?
+
+Using props.
+How does the child component invoke a method that was passed to it from a parent component?
+
+Create another function inside the child component.
+Things I want to know more about
