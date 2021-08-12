@@ -100,3 +100,52 @@ for(int index = oldWord.Length – 1; index >= 0; index—)
 
    newWord += oldWord[index];
 return newWord;
+
+# Act like you make $1000/hr
+
+
+## We should not spend your time without interest, everyone should decide what you do and how much time it takes to do it
+
+
+
+Possibly you feel intimidated by all the programming terms before you even start to learn. Maybe the challenges seem solvable, but you can’t think of a way to solve them due to limited context. Once you start programming, you might spend hours looking for a bug and feel ready to quit. How can you get around these common pitfalls?
+
+1-Be Persistent
+
+The most important thing, whatever your situation, is to be persistent.
+
+In the beginning when you research ways to solve a challenge, push yourself beyond your limit—at least a little bit more than usual. When you feel exhausted, drained, and ready give up, many times that's when you finally figure it out. The moment where most people give up is the moment you need to keep going because this is when you improve. Everything uncomfortable is a gift so we can grow as individuals and strengthen our character.
+
+The first few months are the most difficult. Don’t worry; I can tell you from experience it gets better. The hard work you put into it matters. I guarantee you’ll improve as time goes by.
+
+2-Remember Your Goals
+
+Another way to push yourself forward is to remember your goals. Why do you want to learn to code? Keep a list of your goals on your computer, in a notebook, or stuck to your wall. I like to make lists of my goals, then remind myself of them every morning. That sets my intention for the day and helps me focus on accomplishing them.
+
+# 5 Whys
+
+ 5 Whys technique (sometimes known as 5Y). This is a simple but powerful tool for cutting quickly through the outward symptoms of a problem to reveal its underlying causes, so that you can deal with it once and for all.
+
+ The 5 Whys uses "counter-measures," rather than "solutions." A counter-measure is an action or set of actions that seeks to prevent the problem from arising again, while a solution may just seek to deal with the symptom. As such, counter-measures are more robust, and will more likely prevent the problem from recurring.
+
+## How to Use the 5 Whys
+
+1- Assemble a Team
+
+ther together people who are familiar with the specifics of the problem, and with the process that you're trying to fix. Include someone to act as a facilitator , who can keep the team focused on identifying effective counter-measures.
+
+
+2-Define the Problem
+
+If you can, observe the problem in action. Discuss it with your team and write a brief, clear problem statement that you all agree on. 
+
+3- Ask the First "Why?
+
+
+Asking "Why?" sounds simple, but answering it requires serious thought. Search for answers that are grounded in fact: they must be accounts of things that have actually happened, not guesses at what might have happened.
+
+This prevents 5 Whys from becoming just a process of deductive reasoning, which can generate a large number of possible causes and, sometimes, create more confusion as you chase down hypothetical problems.
+
+4-Ask "Why?" Four More Times
+
+Try to move quickly from one question to the next, so that you have the full picture before you jump to any conclusions.
