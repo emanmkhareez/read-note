@@ -77,7 +77,8 @@ This site is for storing what you have summarized from reading in all the stages
  | Assignment  |                      link                                      |
  | ----------- | ---------------------------------------------------------------|
  |preWork1     |[ programing problem](401preWork/ProgrammingProblems.md)        |
- |class1       |[Node Ecosystem](401preWork/class1.md)
+ |class1       |[Node Ecosystem](401preWork/class1.md)                          |
+ |class2       |[express](401preWork/class2.md)                                 |
 
 
 
