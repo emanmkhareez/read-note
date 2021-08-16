@@ -62,3 +62,37 @@ An HTTP response is what is sent by a server to a client in response to an HTTP 
 hat happens once the client receives the HTTP response back from the server?
 
 Once the client receives the HTTP response, the browser will render the HTTP response body message. This message is either the requested resource (for example, a web page) or display a message relating to status code if the request wasn’t successful.
+
+npm :Node Package Manager
+
+
+npm is the package manager for the Node JavaScript platform. It puts modules in place so that node can find them, and manages dependency conflicts intelligently. It is extremely configurable to support a wide variety of use cases. Most commonly, it is used to publish, discover, install, and develop node programs
+
+ is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+npm consists of three distinct components:
+
+the website
+
+Use the website to discover packages, set up profiles, and manage other aspects of your npm experience. For example, you can set up organizations to manage access to public or private packages.
+the Command Line Interface (CLI)
+
+the registry
+
+The registry is a large public database of JavaScript software and the meta-information surrounding it.
+
+exprees & node 
+
+Other common web-development tasks are not directly supported by Node itself. If you want to add specific handling for different HTTP verbs (e.g. GET, POST, DELETE, etc.), separately handle requests at different URL paths ("routes"), serve static files, or use templates to dynamically create the response, Node won't be of much use on its own. You will either need to write the code yourself, or you can avoid reinventing the wheel and use a web framework!
+
+Express is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks. It provides mechanisms to:
+
+Write handlers for requests with different HTTP verbs at different URL paths (routes).
+Integrate with "view" rendering engines in order to generate responses by inserting data into templates.
+Set common web application settings like the port to use for connecting, and the location of templates that are used for rendering the response.
+Add additional request processing "middleware" at any point within the request handling pipeline.
+
+
+What is the difference between a framework and a library?
+
+I always thought of a library as a set of objects and functions that focuses on solving a particular problem or a specific area of application development (i.e. database access); and a framework on the other hand as a collection of libraries centered on a particular methodology (i.e. MVC) and which covers all areas of application development.
