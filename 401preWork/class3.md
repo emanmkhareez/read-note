@@ -89,7 +89,9 @@ What is middleware application examples?
 
 Common middleware examples include database middleware, application server middleware, message-oriented middleware, web middleware and transaction-processing monitors. ... This can include security authentication, transaction management, message queues, applications servers, web servers and directories
 
+Router
 
+In Express, usually, we make end-points that uses HTTP verbs to denote a GET POST DELETE PUT etc requests. Router is used to manage these incoming requests. It kind of routes your requests to correct handler/code
 
 **Rouring middelware**
 Routing defines the way in which the client requests are handled by the application endpoints. And when you make some routers in separate file, you can use them by using middleware
