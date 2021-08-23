@@ -83,6 +83,7 @@ This site is for storing what you have summarized from reading in all the stages
   |class4      |[sql Nosql](401preWork/class4.md)                                 |
    |linkedList  |[linkedList](401preWork/linkedlist.md)                       |
    |class5  |[ Authentication](401preWork/class5.md)                       |
+   |JWT  |[ JWT](401preWork/class6.md)                       |
 
 
 
