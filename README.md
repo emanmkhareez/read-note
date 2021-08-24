@@ -84,6 +84,7 @@ This site is for storing what you have summarized from reading in all the stages
    |linkedList  |[linkedList](401preWork/linkedlist.md)                       |
    |class5  |[ Authentication](401preWork/class5.md)                       |
    |JWT  |[ JWT](401preWork/class6.md)                       |
+   |RBAC  |[ RBAC](401preWork/class7.md)                       |
 
 
 
