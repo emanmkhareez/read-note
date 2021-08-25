@@ -85,6 +85,7 @@ This site is for storing what you have summarized from reading in all the stages
    |class5  |[ Authentication](401preWork/class5.md)                       |
    |JWT  |[ JWT](401preWork/class6.md)                       |
    |RBAC  |[ RBAC](401preWork/class7.md)                       |
+| Authorization/Authentication |[AAA](401preWork/class8.md)                       |
 
 
 
