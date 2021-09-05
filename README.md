@@ -92,6 +92,7 @@ This site is for storing what you have summarized from reading in all the stages
 |Socket && hub |[Socket && hub](401preWork/class13.md)               |
 |Event Driven Architecture |[Event Driven Architecture](401preWork/class14.md)            |
 |tree |[tree](401preWork/tree.md)            |
+|AWS |[AWS](401preWork/class16.md)            |
 
 
 
