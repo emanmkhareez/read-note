@@ -93,6 +93,7 @@ This site is for storing what you have summarized from reading in all the stages
 |Event Driven Architecture |[Event Driven Architecture](401preWork/class14.md)            |
 |tree |[tree](401preWork/tree.md)            |
 |AWS |[AWS](401preWork/class16.md)            |
+|AWS: S3 |[AWS: S3](401preWork/class17.md)            |
 
 
 
