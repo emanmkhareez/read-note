@@ -67,7 +67,7 @@ This site is for storing what you have summarized from reading in all the stages
 |    class-11 | [ Authentication ](301/class11.md)                             |
 |    class-12 | [ Mongo and Mongoose ](301/class12.md)                         |
 |class-13     |[CRAD ](301/class13.md)                                       | 
-|class-13     |[CRAD ](301/class13.md)                                       | 
+
 
 
 
@@ -96,6 +96,7 @@ This site is for storing what you have summarized from reading in all the stages
 |AWS |[AWS](401preWork/class16.md)            |
 |AWS: S3 |[AWS: S3](401preWork/class17.md)            |
 |AWS: API|[AWS: API](401preWork/class18.md)            |
+| project       |[ project](README2.md)                                   |
 
 
 

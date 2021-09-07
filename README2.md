@@ -30,7 +30,6 @@
 | ----------- | ------------------------------------|--------------------------|
 |    GET     |  user/                           |    get all user from admin |
 |    GET     |  user/:id                         |  get specific  user from admin  |
-
 |    delete     |      user/:id       |      delete user from admin|
 
 
@@ -50,6 +49,20 @@
 
 | method      |                      link           |   Description             |
 | ----------- | ------------------------------------|--------------------------|
-|  GET |      appointment/       | get all available appointment from user |
-|  post |      book/       | book appointment from user |
-|  delete  |      book/:id       | delete  appointment from user |
+|  GET |      appointment/       | get all available appointment from user &admin |
+|  post |      book/       | book appointment from user  &admin |
+|  delete  |      book/:id       | delete  appointment from user  &admin |
+
+
+
+ ER diagram
+
+ ![diagram](image1.png)
+
+Relational Schema
+
+ ![RelationalSchema](image5.png)
+
+context Diagram
+
+![contextDigram](contextDigram.png)
