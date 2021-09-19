@@ -98,6 +98,7 @@ This site is for storing what you have summarized from reading in all the stages
 |AWS: API|[AWS: API](401preWork/class18.md)            |
 | project       |[ project](README2.md)                                   |
 |SQS and SNS Basics  |[SQS and SNS Basics ](401preWork/class18.md)          |
+|Component Based UI |[Component Based UI ](401preWork/class20.md)          |
 
 
 
