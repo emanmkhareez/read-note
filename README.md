@@ -99,6 +99,8 @@ This site is for storing what you have summarized from reading in all the stages
 | project       |[ project](README2.md)                                   |
 |SQS and SNS Basics  |[SQS and SNS Basics ](401preWork/class18.md)          |
 |Component Based UI |[Component Based UI ](401preWork/class20.md)          |
+|hooks |[hooks ](401preWork/class27.md)          |
+|Component Lifecycle |[Component Lifecycle ](401preWork/class28.md)          |
 
 
 
