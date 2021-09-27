@@ -102,6 +102,7 @@ This site is for storing what you have summarized from reading in all the stages
 |hooks |[hooks ](401preWork/class27.md)          |
 | State with Reducers |[ with Reducers ](401preWork/class29.md)          |
 | contextAPI |[ contextAPI ](401preWork/class31.md)          |
+| contextAPI 2 |[ contextAPI 2 ](401preWork/class32.md)          |
 
 
 
