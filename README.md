@@ -104,7 +104,9 @@ This site is for storing what you have summarized from reading in all the stages
 | contextAPI |[ contextAPI ](401preWork/class31.md)          |
 | contextAPI 2 |[ contextAPI 2 ](401preWork/class32.md)          |
 |<Login /> and <Auth />|[<Login /> and <Auth />  ](401preWork/class33.md)          |
+|API Integration|[API Integration ](401preWork/class34.md)          |
 
+|graph |[graph  ](401preWork/class35.md)          |
 
 
 
