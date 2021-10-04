@@ -107,6 +107,8 @@ This site is for storing what you have summarized from reading in all the stages
 |API Integration|[API Integration ](401preWork/class34.md)          |
 
 |graph |[graph  ](401preWork/class35.md)          |
+|redux |[redux  ](401preWork/class36.md)          |
+| Combined Reducers |[ Combined Reducers  ](401preWork/class37.md)          |
 
 
 
